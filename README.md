@@ -6,4 +6,4 @@ Press Ctrl+1 to Ctrl+5 to activate the auto clicker. The number represents the p
 
 Press Ctrl+\` to stop the auto clicker.
 
-***The windows size of BlueStacks will resize to 1600*900 automatically.***
+***The windows size of BlueStacks will resize to 1600*900 automatically.**
